@@ -1,4 +1,4 @@
-# Probing Attack Demo Project for Research Experience for Undergraduate Interns (WSU Smart Lab)
+# Probing Attack Demo Project for Research Experience for Undergraduate (REU) Interns (WSU Smart Lab)
 In this project, a probe attack is demonstrated to menupulate or inject data into UART bus with attacker hardware (supposetly hardware trojan equavalent). This repository containts firmware for both - attacker and victim.
 
 The victim hardware reads the value of Light Dependent Resistor (LDR) with it's Analog to Digital Converter (ADC) peripherial. Then, it sends the ADC value over UART. The Transmission (TX) bus can be accessed from the TX0 or TX labeled in Arduino or ESP32 modules. 
