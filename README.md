@@ -11,3 +11,14 @@ Attacker Hardware can select mode. When the logic 1 is provided, the output of I
 ![GitHub Logo](Assets/diagram.png)
 
 (All grounds must be commoned)
+
+# Experimental Setup
+![setup](Assets/Experimental_Setup.jpg)
+
+# Poisoned Signals in UART Tx bus
+![Poisoned Signals](Assets/Poisoned_Signal.jpg)
+
+# UART Logs
+![UART Logs](Assets/Poisoned_UART_Logs.jpg)
+
+('1' is injected to TX bus by Trojan Hardware)
